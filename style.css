@@ -1,0 +1,17 @@
+h1 {
+    color: tomato;
+    font-size: 60px;
+    font-family: Algerian;
+}
+
+.body_background {
+    background-image: url("https://www.wallpaperflare.com/static/954/381/189/olympic-bright-colourfull-circle-wallpaper.jpg");
+    background-position: fixed;
+    background-size: cover;
+}
+
+#oli {
+    border-width: 15px;
+    background-color: aliceblue;
+    border-style: ridge;
+}
